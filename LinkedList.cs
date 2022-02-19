@@ -176,7 +176,7 @@ public class LinkedList
 
     public void Sort()
     {
-        // Bubble Sort for Warm Up
+        // Bubble Sort
 
         for (int i = 0; i < Length - 1; i++)
         {
